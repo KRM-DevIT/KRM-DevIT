@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack .NET Developer | Angular | Dynamics 365 CRM</h3>
 
 <p align="center">
-  ITI graduate turned full-stack developer, building end-to-end business applications with .NET, Angular, and CRM integrations.
+  ITI-9 Month graduate turned full-stack developer, building end-to-end business applications with .NET, Angular, and CRM integrations.
 </p>
 
 <p align="center">
