@@ -9,8 +9,8 @@
   <a href="https://www.linkedin.com/in/karim-ramadan-ahmed-10b733287/">
   <img src="https://img.icons8.com/color/48/linkedin.png" width="35" height="35"/></a>
   &nbsp;&nbsp;
-  <a href="mailto:kareemrmdn531@gmail.com">
-  <img src="https://img.icons8.com/color/48/gmail.png" width="35" height="35"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kareemrmdn531@gmail.com">
+<img src="https://img.icons8.com/color/48/gmail.png" width="35" height="35"/></a>
 </p>
 
 
