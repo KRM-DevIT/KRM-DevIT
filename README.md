@@ -1,4 +1,4 @@
-<h1 align="center">Karim Ramadan Ahmed 🌐🔰</h1>
+<h1 align="center">Karim Ramadan Ahmed 🔰</h1>
 <h3 align="center">Full Stack .NET Developer | Angular | Dynamics 365 CRM</h3>
 
 <p align="center">
